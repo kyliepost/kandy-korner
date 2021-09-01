@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { KandyKorner } from './components/KandyKorner';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import { KandyKorner } from './KandyKorner';
+
 
 ReactDOM.render(
   <React.StrictMode>
